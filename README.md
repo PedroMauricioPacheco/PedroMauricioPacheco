@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/pedro-mauricio-pacheco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## 
+
 <div>
     <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
